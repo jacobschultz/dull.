@@ -16,7 +16,6 @@ dull. is built with wonderful open source technologies including Electron, Nedb 
 
 As a college student with limited free time, I apperciate donations. All work on this project is done in my limited free time.
 
- * BTC: 32sBWDjMfcdeFvWrLPCwY5a1BQf1yHPYaR
  * BCH: qqmpcmkfg3usggwxh2ylk8jx4pw5pwce3vlaksxfef
  * LTC: MHWJT7ryz1VinuFjjaLTnJ3x9LVpW7GQKa
  * ETH: 0x1966095Dc49eE403E3738649d5EA3F2D719D8f76
